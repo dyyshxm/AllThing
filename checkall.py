@@ -9,7 +9,7 @@ ff = 'd:/1.txt'
 
 
 class checkall(object):
-    URL='http://www.bjrbj.gov.cn/gwyquery/publicQuery/gzwbkrsssquery'
+    URL='http://replace your ip domain/gwyquery/publicQuery/gzwbkrsssquery'
     POST = {
         'yhid':'',
         'pxdm':'0',
